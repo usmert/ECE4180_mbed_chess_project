@@ -18,10 +18,11 @@ In this project we built a chess game using an mbed LPC1768 Microcontroller. The
 * 10k Ohm Resistor
 * 5V Breadboard Power Supply
 
-# Video Demonstration
+# Project Demo
+[![Video demo](images/chess_proj_thumbnail.png)](https://www.youtube.com/watch?v=JMscDs1BIZE&t=2s)
 
 # Schematic
-![image](https://github.gatech.edu/storage/user/65657/files/9f0fb8db-7ca2-422b-abbc-5c56ffe5838a)
+![image](images/chess_proj_schematic.png)
 
 # Instructions
 
