@@ -20,6 +20,7 @@ In this project we built a chess game using an mbed LPC1768 Microcontroller. The
 
 ## Project Demo
 [<img src="https://github.com/usmert/ECE4180_mbed_chess_project/blob/main/images/chess_proj_thumbnail.png" width="600">](https://www.youtube.com/watch?v=JMscDs1BIZE&t=2s)
+[<img src="https://drive.google.com/file/d/15JwGyRkDv7Ju4YbuGe0PNsOfL1TbUTCL/view?usp=sharing" width="600">](https://www.youtube.com/watch?v=JMscDs1BIZE&t=2s)
 
 ## Schematic
 <img src="https://github.com/usmert/ECE4180_mbed_chess_project/blob/main/images/chess_proj_schematic.png" width="600">
