@@ -19,7 +19,7 @@ In this project we built a chess game using an mbed LPC1768 Microcontroller. The
 * 5V Breadboard Power Supply
 
 ## Project Demo
-[<img src="https://github.com/usmert/ECE4180_mbed_chess_project/blob/main/images/chess_proj_thumbnail.png" width="600">](https://www.youtube.com/watch?v=JMscDs1BIZE&t=2s)
+[<img src="https://github.com/usmert/ECE4180_mbed_chess_project/images/chess_proj_thumbnail.png" width="600">](https://www.youtube.com/watch?v=JMscDs1BIZE&t=2s)
 
 ## Schematic
 <img src="https://github.com/usmert/ECE4180_mbed_chess_project/blob/main/images/chess_proj_schematic.png" width="600">
