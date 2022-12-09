@@ -1,15 +1,23 @@
-# chess_proj
+# mbed Chess Game
 An embedded chess game device with 1-player and 2-player functionality.
-# Overview 
-The goal of our project was to make a completely function chess board on the mbed. Our chess has the ability to play against an ai which can see three moves into the feature. The chess game also has the a two player function. The chess game is controlled either Bluetooth or a joystick. The chess game is displayed on a uLCD.
 Team Members: Logan Starr, Mert Us, and Matthew Hannay
-# Components List 
 
-LPC1768 Mbed With Mbed OS 2
-*Adafruit Bluefruit LE UART Module to control the chess board using Bluetooth
-*Sparkfun PCB or breadboard mount Speaker 8ohm .1W for game winning sounds
-*5v votlage cord
-*uLCD-144-G2 128 to display the chess game
+## Overview 
+In this project we built a chess game using an mbed LPC1768 Microcontroller. The game includes 2-player mode, as well as a 1-player mode in which the AI opponent is implemented using the Minimax Alogorithm. Players have the ability to control the game using a joystick and a mobile phone app connected via bluetooth. The device is beginner-friendly, with the possible moves highlighted on the screen when a piece is selected, and a red LED to indicate if a user tries an illegal move. The game can be reset using a button or the app, and the mode can be changed using an on-board switch. The game mode change takes effect after the game is reset. An LCD Screen is used to display the board and a speaker plays tunes when the game ends.
+
+## Components List
+* LPC1768 Mbed With Mbed OS 2
+* uLCD-144-G2
+* Adafruit Bluefruit BLE UART
+* SparkFun Mono Audio Amp Breakout
+* PCB Mount Speaker
+* 5-Way Tactile Switch Breakout
+* 8 Position DIP Switch
+* Push Button
+* Red LED
+* 10k Ohm Resistor
+* 5V Breadboard Power Supply
+
 # Video Demonstration
 
 # Schematic
